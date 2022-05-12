@@ -1,0 +1,1 @@
+ez az abc.txt fajlom , amit elöbb comitoltam a GitHubDesktop -al!
